@@ -1,4 +1,4 @@
 Install
-1. Edit 'config.ini'. Pay attention to default charset. It can be "UTF-8", "utf-8" or "utf8".
+1. Edit 'config.ini'. Pay attention to default charset. It can be "UTF-8", "utf-8" or "utf8" depending to your system configuration.
 2. Import "book.sql" to your database.
 3. Run application.
